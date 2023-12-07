@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on YouXie</title>
+    <link>https://you-xie.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on YouXie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 YouXie</copyright>
+    <lastBuildDate>Wed, 06 Dec 2023 09:55:34 +0800</lastBuildDate><atom:link href="https://you-xie.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript-基础知识</title>
+      <link>https://you-xie.github.io/blog/javascript-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Wed, 06 Dec 2023 09:55:34 +0800</pubDate>
+      
+      <guid>https://you-xie.github.io/blog/javascript-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>人生在世，终归草木；宇宙恒大，终付尘土。既然我们的结局都是消亡，那么一切喜怒哀乐，一切风花雪月，还有存在的必要吗？我们不过是漂行于浩瀚星河的一粒尘埃，我们的生死是宇宙中的须臾一瞬，我们何其渺小。还记得苏子的《赤壁赋》中说：寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://you-xie.github.io/blog/javascript-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

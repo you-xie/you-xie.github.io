@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://you-xie.github.io/sitemap.xml
